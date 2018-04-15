@@ -1,15 +1,19 @@
 # Set-SoundDevice3CX
+
 Powershell Script to set an appropriate sound device for 3CX softphone client.
 
 ## System requirements
+
 - This script runs on Windows 10.
 - Script execution policy needs to be at least [RemoteSigned](https://technet.microsoft.com/en-us/library/ee176961.aspx)
 
 ## Installation
+
 1. Download the script from the repository.
 2. Store it in a folder.
 
 ## Configuration of the script
+
 1. Start the script Get-SoundDevice3CX.ps1
 2. Pick the device names for microphone and speakers you would like to use.
 3. Create a mask that fits all your devices.
@@ -17,6 +21,7 @@ Powershell Script to set an appropriate sound device for 3CX softphone client.
 4. Put the masks for microphone and speaker into the config section of the script.
 
 ## Configuration of the task scheduler
+
 1. Copy the file path to clipboard.
 2. Start task scheduler.
 3. Create a new task.
