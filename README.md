@@ -33,6 +33,6 @@ Powershell Script to set an appropriate sound device for 3CX softphone client.
 12. Hit Ok.
 13. Hit Ok again.
 
-Lock your workstation and check if the device is correctly set in 3CX.
+Lock and unlock your workstation and check if the device is correctly set in 3CX.
 
 Have fun!
